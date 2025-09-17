@@ -5,8 +5,8 @@ import InfoCard from './components/info-card'
 import { Slider } from '@/components/ui/slider'
 
 const PLAYER_NAMES: Record<number, string> = {
-  1: 'บิ๊ก',
-  2: 'ป้อน',
+  1: 'ผู้เล่นคนแรก',
+  2: 'ผู้เล่นคนที่สอง',
 }
 
 export default function WavelengthLite() {
